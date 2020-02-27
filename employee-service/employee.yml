@@ -1,0 +1,8 @@
+employee:
+  name:
+    firstname: sushain
+    lastname: dilishan
+  Skin:
+    color: white
+    type: dry
+duration: all

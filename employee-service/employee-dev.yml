@@ -1,0 +1,8 @@
+employee:
+  name:
+    firstname: varman
+    lastname: nagarsa
+  Skin:
+    color: brown
+    type: wet
+duration: all

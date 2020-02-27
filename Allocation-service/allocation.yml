@@ -1,0 +1,10 @@
+project:
+ importance:
+  high: 10
+  low: 2
+ Cost:
+  deductions: 2
+company:
+ default:
+  name: virtusa
+duration: all

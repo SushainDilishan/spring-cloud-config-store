@@ -1,0 +1,10 @@
+project:
+ importance:
+  high: 5
+  low: 6
+ Cost:
+  deductions: 3
+company:
+ default:
+  name: polaris
+duration: notspecified
